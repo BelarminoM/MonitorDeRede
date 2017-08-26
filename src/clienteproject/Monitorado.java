@@ -119,7 +119,7 @@ public class Monitorado {
 	}
 	
 	
-	/** Método Cmd Dispositivo envia informações de portas abertas na interface de rede para o Monitor
+	/** Método Cmd Dispositivo envia informações de processos ativos para o Monitor
 	 * @param sock Socket que vai se conectar
 	 */
 	private static void cmdDisp(Socket sock) {
